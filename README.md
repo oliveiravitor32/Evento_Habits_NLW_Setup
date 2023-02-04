@@ -1,4 +1,4 @@
-# My-NLW-Setup
+# Habits-NLW-Setup
 Projeto desenvolvido durante o evento NLW-Setup da plataforma Rocketseat(https://www.rocketseat.com.br/). 
 Aplicação Full-Stack com Back-End(Server), Front-End(Web) e Mobile. 
 Utilizando as tecnologias mais atuais do mercado como: React, React-Native, Tailwind, TypeScript, Prisma, Fastify, e mais...
